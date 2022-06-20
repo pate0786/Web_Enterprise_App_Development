@@ -1,2 +1,1 @@
-"# Web-Enterprise-Development-CST8218" 
-"# Web_Enterprise_App_Development" 
+In this course I have expanded learning on HTML, Java and database knowledge to develop skills in building scalable applications using the Jakarta Enterprise Edition framework. Also apply these skills in developing a web application project with a database layer, business logic, presentation logic and client-side components, as well as a RESTful interface for SPA, B2B and Mobile support. Understood design topics which involved multitier architecture, Object Relational Mapping, XML, internationalization and web security.
